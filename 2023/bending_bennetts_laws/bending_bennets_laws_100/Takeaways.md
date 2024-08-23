@@ -1,0 +1,3 @@
+- A controlled Z gate can demonstrate the classical and gate in the global phase
+- A controlled Z gate can have the Z gate in any position. It does not matter
+- A controlled Z gate sandwhiched between two hadamards is an X gate (Come on!)

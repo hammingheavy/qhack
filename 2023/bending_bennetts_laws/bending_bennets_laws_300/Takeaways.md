@@ -1,0 +1,5 @@
+- Instread of creating a variational circuit (a good idea by the way), create a linspace of thetas and sweep over it to find if the required conditions hold
+- To multiply two or more operators use the @ symbol (!!) (no need for kron)
+- Using qml.expval I can calculate the expectation value of any operator (need not be hermitian) but make sure that the product inside has been multiplied with @'s 
+- Need not create a quantum node everytime, need to learn where to create one and where it is not needed
+- I can calculate the transpose of a matrix in np using .T

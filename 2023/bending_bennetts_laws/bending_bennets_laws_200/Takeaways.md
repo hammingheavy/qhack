@@ -1,0 +1,4 @@
+- Bell basis $\rightarrow$ 2 qubits
+- Analogous to bell basis, for three qubits GHZ states/basis
+- To encode a state, run the final state thorogh the decoder in reverse and see what state must go in to get the final state
+- I can reverse the order of the terms in the quantum states cotaining a sum of terms to manipulate my state

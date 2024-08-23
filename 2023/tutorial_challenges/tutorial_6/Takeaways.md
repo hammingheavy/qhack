@@ -1,0 +1,3 @@
+- Use @ to denote tennsor product of operators
+- Go to Operator arithematic to find out more about operations on operators
+- class Hamiltonian() can make the hamiltonian for me if I input the coeff = [] and observables = [] and pass H = qml.Hamiltonian(coeff, observables)
